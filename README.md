@@ -37,7 +37,7 @@ The model was trained for 10 epochs, resulting in a consistent convergence betwe
 ### Training Progress
 Below is the accuracy curve showing the model's learning trajectory over 10 epochs.
 
-![Validation Accuracy](./images/Validation_accuracy.jpg)
+![Validation Accuracy](.Handwritten-Digit-Classifier-ML/images/Validation_accuracy.jpg)
 
 ---
 
@@ -56,18 +56,18 @@ The following samples demonstrate the model's ability to correctly identify digi
 
 | Sample Image | Model Prediction |
 | :---: | :---: |
-| ![Result 1](./images/Result_1.jpg) | **Predicted: 9** |
-| ![Result 2](./images/Result_2.jpg) | **Predicted: 1** |
-| ![Result 3](./images/Result_3.jpg) | **Predicted: 7** |
-| ![Result 4](./images/Result_4.jpg) | **Predicted: 1** |
-| ![Result 5](./images/Result_5.jpg) | **Predicted: 3** |
+| ![Result 1](.Handwritten-Digit-Classifier-ML/images/Result_1.jpg) | **Predicted: 9** |
+| ![Result 2](.Handwritten-Digit-Classifier-ML/images/Result_2.jpg) | **Predicted: 1** |
+| ![Result 3](.Handwritten-Digit-Classifier-ML/images/Result_3.jpg) | **Predicted: 7** |
+| ![Result 4](.Handwritten-Digit-Classifier-ML/images/Result_4.jpg) | **Predicted: 1** |
+| ![Result 5](.Handwritten-Digit-Classifier-ML/images/Result_5.jpg) | **Predicted: 3** |
 
 ---
 
 ## 📂 Repository Structure
 ```text
 .
-├── dataset/                   # Dataset files (train.csv / test.csv)
+├── dataset/                # Dataset files (train.csv / test.csv)
 ├── images/                 # Result screenshots and plots
 ├── notebooks/              # Jupyter notebooks
 ├── requirements.txt        # Python dependencies
