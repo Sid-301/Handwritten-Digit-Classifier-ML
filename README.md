@@ -1,6 +1,10 @@
-# Handwritten-Digit-Classifier-ML
+# Handwritten Digit Classifier using Deep Learning
 
-A deep learning project that classifies handwritten digits (0-9) using a Feedforward Neural Network built with **TensorFlow** and **Keras**. This model achieves ~97% accuracy on the MNIST-style dataset.
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow%20%2F%20Keras-orange.svg)
+![Accuracy](https://img.shields.io/badge/Accuracy-96.98%25-green.svg)
+
+A high-performance deep learning project that classifies handwritten digits (0-9) from an MNIST-style dataset. This implementation utilizes a Multi-Layer Perceptron (MLP) architecture built with **TensorFlow** and **Keras** to achieve robust predictive accuracy.
 
 ## 📊 Project Overview
 This project demonstrates the full machine learning pipeline:
@@ -23,15 +27,8 @@ This project demonstrates the full machine learning pipeline:
    ```bash
    pip install -r requirements.txt
    
+# 
 
-   
-# Handwritten Digit Classifier using Deep Learning
-
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
-![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow%20%2F%20Keras-orange.svg)
-![Accuracy](https://img.shields.io/badge/Accuracy-96.98%25-green.svg)
-
-A high-performance deep learning project that classifies handwritten digits (0-9) from an MNIST-style dataset. This implementation utilizes a Multi-Layer Perceptron (MLP) architecture built with **TensorFlow** and **Keras** to achieve robust predictive accuracy.
 
 ## 📊 Project Performance
 The model was trained for 10 epochs, resulting in a consistent convergence between training and validation accuracy.
