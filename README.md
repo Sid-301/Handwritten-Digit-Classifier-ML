@@ -17,7 +17,7 @@ This project demonstrates the full machine learning pipeline:
 ## 🛠️ Installation
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/SID-301/Handwritten-Digit-Classifier-ML.git](https://github.com/SID-301/Handwritten-Digit-Classifier-ML.git)
+   git clone [https://github.com/Sid-301/Handwritten-Digit-Classifier-ML.git](https://github.com/Sid-301/Handwritten-Digit-Classifier-ML.git)
 
    
 # Handwritten Digit Classifier using Deep Learning
