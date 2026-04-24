@@ -1,0 +1,7 @@
+```text
+numpy
+pandas
+matplotlib
+tensorflow
+seaborn
+scikit-learn
